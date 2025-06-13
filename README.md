@@ -1,4 +1,4 @@
-# 💫 About Me [check out more here](https://c4v4h.github.io)
+# 💫 About Me [check out more here](https://github.com/C4V4H)
 
 Hi! I'm a Computer Science student at the University of Turin (UniTo).  
 I'm passionate about the foundational concepts of computer science, especially low-level programming, C, and systems. I am also interested in mobile development, open source communities, and everything related to Linux.
