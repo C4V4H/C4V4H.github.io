@@ -5,7 +5,7 @@ I'm passionate about the foundational concepts of computer science, especially l
 
 I love exploring new technologies and contributing to projects that help the tech community grow. My current focus is on deepening my knowledge of programming languages, mobile frameworks, and animation tools.
 
-Check out my latest project [here](/ship_log)! // note: it isn't finished yet.
+Check out my latest project [here](/dist)! // note: it isn't finished yet.
 
 ---
 
